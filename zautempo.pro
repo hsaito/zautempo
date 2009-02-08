@@ -1,0 +1,10 @@
+TEMPLATE        = app
+#CONFIG         = qt warn_on debug
+CONFIG          = qt warn_on release
+HEADERS         = qtprojectdialog.h
+SOURCES         = main.cpp qtprojectdialog.cpp
+INCLUDEPATH     += $(QPEDIR)/include
+DEPENDPATH      += $(QPEDIR)/include
+LIBS            += -lqpe
+INTERFACES      = qtprojectdialogbase.ui
+TARGET          = zautempo

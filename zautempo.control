@@ -1,0 +1,9 @@
+Package: zautempo
+Priority: optional
+Section: qpe/applications
+Maintainer: Hideki Saito <hideki@allcity.net>
+Architecture: x86
+Version: 0.0.9
+Depends: qpe-base ($QPE_VERSION)
+License: GPL
+Description: ZauTempo tempo measuring/vizualization tool.

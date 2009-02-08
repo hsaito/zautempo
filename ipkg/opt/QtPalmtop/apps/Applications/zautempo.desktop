@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=The tempo realization software.
+Exec=zautempo
+Icon=zautempo.png
+Type=Application
+Name=ZauTempo
